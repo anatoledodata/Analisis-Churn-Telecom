@@ -42,7 +42,14 @@ Calculamos un diferencial de servicios para identificar "Servicios Ancla":
 * **Seguridad Online y Soporte Técnico:** Los clientes que cuentan con estos servicios presentan una tasa de fuga drásticamente inferior al promedio.
 * **Alerta:** Los métodos de pago manuales (Electronic Check) están altamente correlacionados con el abandono.
 
-* 
+### D. Mapa de Correlación (Fuerza de Relación)
+Utilizamos un mapa de calor para identificar qué variables numéricas tienen mayor peso estadístico sobre la evasión.
+* **Antigüedad vs Churn:** Se observa una correlación negativa fuerte. A medida que aumenta la antigüedad, la probabilidad de fuga disminuye drásticamente.
+* **Cargos Totales:** La relación con la antigüedad confirma que los clientes que logramos retener a largo plazo son los que generan el mayor valor acumulado para la empresa.
+> **Insight:** No todos los clientes valen lo mismo; la rentabilidad real de la empresa reside en superar la barrera de los primeros 12 meses.
+
+
+<img width="5342" height="3989" alt="tablero_analisis_churn" src="https://github.com/user-attachments/assets/b54f9e21-493e-4ba7-b06d-e1724b0fca9c" />
 
 ---
 
